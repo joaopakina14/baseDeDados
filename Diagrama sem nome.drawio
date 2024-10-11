@@ -286,7 +286,7 @@
           <mxGeometry x="356" y="720" width="116" height="30" as="geometry" />
         </mxCell>
         <mxCell id="194zBz4yPMXIeNn44Lro-196" value="Motorista" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="760" width="180" height="150" as="geometry" />
+          <mxGeometry x="8" y="1019" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="194zBz4yPMXIeNn44Lro-197" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="194zBz4yPMXIeNn44Lro-196">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -341,7 +341,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="194zBz4yPMXIeNn44Lro-209" value="Veículo" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="760" width="180" height="180" as="geometry" />
+          <mxGeometry x="310" y="1010" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="194zBz4yPMXIeNn44Lro-210" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="194zBz4yPMXIeNn44Lro-209">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -409,7 +409,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="194zBz4yPMXIeNn44Lro-238" value="Dia de Trabalho" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="760" width="180" height="90" as="geometry" />
+          <mxGeometry x="580" y="1010" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="194zBz4yPMXIeNn44Lro-239" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="194zBz4yPMXIeNn44Lro-238">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -436,6 +436,21 @@
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="194zBz4yPMXIeNn44Lro-251" value="Motorista" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="194zBz4yPMXIeNn44Lro-252" value="Veículo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="194zBz4yPMXIeNn44Lro-253" value="Dia de Trabalho" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="194zBz4yPMXIeNn44Lro-254" value="usa" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="780" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="194zBz4yPMXIeNn44Lro-255" value="associa" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="780" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
